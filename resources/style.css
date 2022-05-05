@@ -76,7 +76,7 @@ header a {
     opacity: 1;
 }
 
-.locations-container {
+.location-container {
     display: flex;
     justify-content: center;
     align-content: center;
